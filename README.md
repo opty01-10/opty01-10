@@ -9,9 +9,9 @@
 
 ###
 
-
-<img src="https://svgsilh.com/svg/2167964.svg"/>
-
+<div>
+  <img src="https://svgsilh.com/svg/2167964.svg"/>
+</div>
 
 ###
 
