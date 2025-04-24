@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is leoand I'm engineering studant </h2>
+<h2 align="left">Hi 👋! My name is leo and I'm engineering studant </h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="left" height="156" src="[https://i.pinimg.com/originals/26/77/a3/2677a391ece36f2e68c1467a0c37cb5c.gif](https://i.pinimg.com/originals/26/77/a3/2677a391ece36f2e68c1467a0c37cb5c.gif)"/>
+<img align="left" height="156" src="https://i.pinimg.com/originals/26/77/a3/2677a391ece36f2e68c1467a0c37cb5c.gif"/>
 
 ###
 
@@ -44,8 +44,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/opty01-10/opty01-10/output/snake.svg" alt="Snake animation" />
 
 ###
 
