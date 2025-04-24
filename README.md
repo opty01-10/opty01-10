@@ -10,7 +10,7 @@
 ###
 
 <div>
-  <img src="https://svgsilh.com/svg/2167964.svg"/>
+  <img src="https://svgsilh.com/svg/2029245.svg"/>
 </div>
 
 ###
