@@ -9,9 +9,9 @@
 
 ###
 
-<div>
-  <img src="[[https://i.pinimg.com/originals/26/77/a3/2677a391ece36f2e68c1467a0c37cb5c.gif](https://www.google.com/imgres?q=cat%20exploding&imgurl=https%3A%2F%2Fimages.steamusercontent.com%2Fugc%2F2045250344266060061%2FDBE94834CFB0BA910311F9C7E417D511AA48A4E7%2F%3Fimw%3D512%26%26ima%3Dfit%26impolicy%3DLetterbox%26imcolor%3D%2523000000%26letterbox%3Dfalse&imgrefurl=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fl%3Dbrazilian%26id%3D3023353384&docid=pv69cYYvLTWxlM&tbnid=swQidI6hul6kjM&vet=12ahUKEwiorPLltu-MAxXwLbkGHTHVKncQM3oECBMQAA..i&w=184&h=184&hcb=2&ved=2ahUKEwiorPLltu-MAxXwLbkGHTHVKncQM3oECBMQAA)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9A5yUx-Up-hKbsa_m8ATdvRRl6nL1o_mgw&s)](https://content.imageresizer.com/images/memes/cat-explosion-meme-6.jpg)"/>
-</div>
+
+<img src="[[https://i.pinimg.com/originals/26/77/a3/2677a391ece36f2e68c1467a0c37cb5c.gif](https://www.google.com/imgres?q=cat%20exploding&imgurl=https%3A%2F%2Fimages.steamusercontent.com%2Fugc%2F2045250344266060061%2FDBE94834CFB0BA910311F9C7E417D511AA48A4E7%2F%3Fimw%3D512%26%26ima%3Dfit%26impolicy%3DLetterbox%26imcolor%3D%2523000000%26letterbox%3Dfalse&imgrefurl=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fl%3Dbrazilian%26id%3D3023353384&docid=pv69cYYvLTWxlM&tbnid=swQidI6hul6kjM&vet=12ahUKEwiorPLltu-MAxXwLbkGHTHVKncQM3oECBMQAA..i&w=184&h=184&hcb=2&ved=2ahUKEwiorPLltu-MAxXwLbkGHTHVKncQM3oECBMQAA)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU9A5yUx-Up-hKbsa_m8ATdvRRl6nL1o_mgw&s)](https://content.imageresizer.com/images/memes/cat-explosion-meme-6.jpg)"/>
+
 
 ###
 
