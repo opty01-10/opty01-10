@@ -1,24 +1,9 @@
-## Hi there 👋
-# Hi 👋, I'm Leonardo Mayck
+
 
 ### Dev Estudante de Engenharia da Computaçao
 
-- 🌱 I'm currently learning **Linguagem de Dados R**
-
-- 👯 I'm looking to collaborate on **Projetos de baixa e media complexidade **
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/opty01-10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="opty01-10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leonardo-mayck-594409335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-mayck-594409335" height="30" width="40" /></a>
-</p>
-
-# Hi 👋, I'm Leonardo Mayck
-
-### Dev Estudante de Engenharia da Computaçao
-
-- 🌱 I'm currently learning **Linguagem de Dados R**
-- 👯 I'm looking to collaborate on **Projetos de baixa e media complexidade**
+- 🌱 Aprendendo no momento **Linguagem de Dados R e Puthon**
+- 👯 Colaboro em **Projetos de baixa e media complexidade**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
